@@ -74,7 +74,7 @@
 HotinGo is an open source, design-focued and the coolest Python-based Hotel Management System on GitHub. Built with Python 3, Tkinter and MySQL, and initially created as a high school CS project, it comprises of all the necessary Hotel Management **features** like:
 
 -   Login 🔑 and Authentication through 🐬 MySQL database 😍
--   The ability to add, update, view and delete new records for:
+-   The ability to add, update, view and delete new records for:  
     -   🔐 Rooms,
     -   💁 Guests, and
     -   ⏰ Reservations
@@ -127,7 +127,7 @@ Here is a sneak peak of the application and it's visuals 😍:
     </tr>
 </table>
 
-Want to create your own iteration? [View the designs on Figma](https://www.figma.com/file/MVq5Q3fhVJB2r70r7I3nJ3/HotinGo?node-id=102%3A2), and then export to Python code with [Tkinter Designer](https://github.com/ParthJadhav/Tkinter-Designer) ☄️.
+Want to create your own iteration? [View the designs on Figma](https://www.figma.com/file/MVq5Q3fhVJB2r70r7I3nJ3/HotinGo?node-id=102%3A2), and then export to Python code with [Tkinter Designer] ☄️.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -137,10 +137,7 @@ Want to create your own iteration? [View the designs on Figma](https://www.figma
 
 This project was created as a 12th grade Computer Science Project. Extra efforts were put in to make it stand out among others' projects, and since it was never meant to be used in real life, practicality was not the top most concern.
 
-<details>
-    <summary>More info...</summary>
-    <p>As per CBSE (the Central Education Board) in India, students with Informatics Practices as a subject need to show their knowledge of Python and MySQL by creating an application that gets evaluated at the end of the year by an examiner/teacher from other schools, and hence the final grades for high school are determined. So, the application was a culmination of team effort, endurance and dedication of our duo. You could see through the commit history, where we started, how it stagnated and then we got the project where it is today.</p>
-</details>
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
